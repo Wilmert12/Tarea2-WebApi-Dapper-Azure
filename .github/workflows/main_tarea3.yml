@@ -62,5 +62,3 @@ jobs:
           app-name: 'Tarea3'
           slot-name: 'Production'
           package: .
-          
-          
